@@ -146,7 +146,7 @@ echo( $hour. " ". hourEnding ($hour). " " . $minut . " ". minutEnding ($minut));
 
 /**
  * Created by PhpStorm.
- * User: ДмитрийАТЕС
+ * User: Дмитрий
  * Date: 11.09.2018
  * Time: 18:57
  */
