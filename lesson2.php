@@ -144,19 +144,9 @@ echo( $hour. " ". hourEnding ($hour). " " . $minut . " ". minutEnding ($minut));
 
 
 
-
-//function fact($x)
-//{
-//    if ($x == 1) {
-//        return 1;
-//    }
-//    return $x * fact($x - 1);
-//}
-
-
 /**
  * Created by PhpStorm.
- * User: ДмитрийАТЕС
+ * User: Дмитрий
  * Date: 11.09.2018
  * Time: 18:57
  */
